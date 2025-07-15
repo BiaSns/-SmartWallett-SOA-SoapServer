@@ -1,0 +1,12 @@
+{
+  "name": "smartwallet-soapserver",
+  "version": "1.0.0",
+  "main": "soapServer.js",
+  "scripts": {
+    "start": "node soapServer.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "soap": "^0.44.0"
+  }
+}
